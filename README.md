@@ -19,7 +19,7 @@ project - PREDATOR
 ### autonomus with sensors
 ### and many ;)
 
-![](images/imag2.jpg)
+![](images/main.jpg)
 
 ![](images/IMG_20190409_220135.jpg)
 
@@ -29,9 +29,9 @@ project - PREDATOR
 
 ![](images/IMG_20190409_215551.jpg)
 
-![](images/main)
+![](images/imag2.jpg)
 
-![](images/image)
+![](images/image.jpg)
 
 
 [VIDEO LINK](https://www.youtube.com/watch?v=oXUfM8x8hvI)
