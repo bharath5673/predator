@@ -2,7 +2,7 @@
 project - PREDATOR
 
 
-![](images/main.jpg)
+![](images/IMG_20190224_180119.jpg)
 
 
 ## project - PREDATOR (technical specs)
@@ -19,6 +19,19 @@ project - PREDATOR
 ### autonomus with sensors
 ### and many ;)
 
-![](images/IMG_20190224_180119.jpg)
+![](images/imag2.jpg)
+
+![](images/IMG_20190409_220135.jpg)
+
+![](images/IMG_20190409_215551.jpg)
+
+![](images/IMG_20190409_220205.jpg)
+
+![](images/IMG_20190409_215551.jpg)
+
+![](images/main)
+
+![](images/image)
+
 
 [VIDEO LINK](https://www.youtube.com/watch?v=oXUfM8x8hvI)
